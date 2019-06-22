@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "this bot for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemAng/myBot.git"
+  },
+  "keywords": [
+    "bot",
+    "myBot"
+  ],
+  "author": "ArtemAng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemAng/myBot/issues"
+  },
+  "homepage": "https://github.com/ArtemAng/myBot#readme"
+}
